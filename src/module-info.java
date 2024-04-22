@@ -1,0 +1,2 @@
+module servicoPagamento {
+}
